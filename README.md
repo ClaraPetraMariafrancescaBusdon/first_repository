@@ -8,7 +8,7 @@ In this repository, you'll find three different works and a brief description of
 
 * **"Exercise_1.md"**: Project Gutenberg, Dillinger, first approach to Markdown
 * **"Exercise_2.md"**: Internet Archives, OCR softwares (I choose Google Documents)
-* **"Busdon_readings**: software for making tables (I choose Google Excel), CSV format
+* **"Busdon_readings - Foglio1.csv**: software for making tables (I choose Google Excel), CSV format
 
 For now, I put them in to the main brench of the repository, just because I was focused on gaining confidence in the use of the GitHub platform. I learnt from scratch how to use some softwares I didn't know about, but I also discovered new features of the tools I already knew about.
 
@@ -18,7 +18,7 @@ For now, I put them in to the main brench of the repository, just because I was 
 
 For this first exercise, I needed to find a novel which was copyright free. That's why I ventured in the [Project Gutenberg](https://www.gutenberg.org/)'s archive, a website full of novels and other books avaiable on the Public Domain. Here I found a Robert Louis Stevenson's novel, [*"The Strange Case of Dr. Jekyll and Mr.Hyde"*](https://www.gutenberg.org/files/43/43-h/43-h.htm). 
 
-I downloaded the novel in the HTML language, and uploaded a copy of its first chapter (*"Story of the door"*) on an online editor, Dillinger.io. Here I could see both the Markdown language and the preview of the text that will be visible to the user.
+I downloaded it in the HTML language, and uploaded a copy of its first chapter (*"Story of the door"*) on an online editor, Dillinger.io. Here I could see both the Markdown language and the preview of the text that will be visible to the user.
 
 Then I decided to make some edits to the original text: I choose to highlight with **blod text** the name of **Mr. Utterson** the lawyer, while for recognising his friend I used both **bold** and *italics*, obtaining this result: ***Mr. Richard Enfield***.
 
@@ -28,3 +28,17 @@ After this, I uploaded a copy of my Dillinger.io work on a .md file here on GitH
 
 ## Exercise_2.md
 
+For the creation of this file, I started exploring the [Internet Archive](https://archive.org/)'s website. It's an initiative similiar to the aforementioned Projrct <Gutenberg, but my aim this time was to find either a digitized printed novel or a manuscript. After a while, I decided to stick with the works of Robert Louis Stevenson, and picked the novel [The Black Arrow](https://archive.org/details/blackarrowstev00stev/page/n3/mode/2up?ref=ol) of 1888.
+
+![The Black Arrow](https://upload.wikimedia.org/wikipedia/commons/1/16/1st_Edition_of_The_Black_Arrow.jpg)
+*The first edition cover of "the Black Arrow" of 1888, found on [Wikimedia Commons](https://it.wikipedia.org/wiki/File:1st_Edition_of_The_Black_Arrow.jpg)*
+
+This time, I needed to work with an OCR tool. I used Gogle Documents as a form of Octical Character Recognition: when inserting an image in a .png format (as I did), the software automatically recognises any word present in the image. Of course, it's not a smooth process: especially when working with old manuscripts, several edits are required in order to obtain a clean, machine-readable text.
+
+I created a different file for every screenshot I took of the novel's first chapter (*"BOOK 1: THE TWO LADS; CHAPTER 1: AT THE SIGN OF THE SUN IN KETTLEY"*), cleared the formatting and then edited the text. Then I put the different files togheter and went once again on Dillinger.io.
+
+This time, I put in **bold** text the name of the knight **Sir Daniel Brackley**, while on both **bold** and *italics* the name of ***Condall***, a man brought upon Sir Daniel for treason. The other names present in the chapter, like *Jhon*, *Joanna* and *Sir Oliver*, were all highlighted with *italics*.
+
+Then, bringing the work here on GitHub as a .md file oneìce again, I edited it some more, adding the links to the [England](https://en.wikipedia.org/wiki/England) Wikipedia page, and to the [Kettleburgh](https://en.wikipedia.org/wiki/Kettleburgh) one, which is one of the possible cities from which Stevenson took inspiration from for the city of Kettley, where the narration takes place.
+
+## Busdon_readings - Foglio1.csv
