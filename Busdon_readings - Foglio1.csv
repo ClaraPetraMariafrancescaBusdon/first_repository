@@ -1,4 +1,4 @@
-Item number,Original_Title,Author_Name,Author_Surname,First_edition,Fe_Language,Fe_Publishing_House,Edition_read,Er_Title,Er_Language,Er_Publishing_House,Translator
+Item_number,Original_Title,Author_Name,Author_Surname,First_edition,Fe_Language,Fe_Publishing_House,Edition_read,Er_Title,Er_Language,Er_Publishing_House,Translator
 1,Blackwater I: The Flood,Michael,McDowell,1983,English,Avon Books,2023,Blackwater I: La Piena,Italian,BEAT,Cantoni
 2,Dracula,Bram,Stroker,1897,English,Archibald Constable and Company,2015,Dracula,Italian,Feltrinelli,Lunari
 3,Frankenstein,Mary,Shelley,1818,English,"Lackington, Hughes, Harding, Mavor & Jones",2013,Frankenstein,Italian,Feltrinelli,Barroni
@@ -9,3 +9,4 @@ Item number,Original_Title,Author_Name,Author_Surname,First_edition,Fe_Language,
 8,The Life and Strange Surprising Adventures of Robinson Crusoe,Daniel,Defoe,1719,English,William Taylor,2012,Robinson Crusoe,Italian,Crescere,"Gatti, Rusconi"
 9,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis,Stevenson,1886,English,"Logmans, Green & co.",1998,Lo strano caso del Dottor Jekyll e del signor Hyde,Italian,Rizzoli,Del Buono
 10,Voyage au Centre de la Terre,Jules,Verne,1864,French,Pierre-Jules Hetzel,2010,Journey to the Centre of the Earth,English,William Collins,Wynne
+
