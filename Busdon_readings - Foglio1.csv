@@ -1,11 +1,11 @@
 Item number,Title,Author_Name,Author_Surname,First_edition,Fe_Language,Fe_Publishing_House,Edition_read,Er_Title,Er_Language,Er_Publishing_House,Translator
 1,Blackwater I: The Flood,Michael,McDowell,1983,English,Avon Books,2023,Blackwater I: La Piena,Italian,BEAT,Cantoni
-2,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis,Stevenson,1886,English,"Logmans, Green & co.",1998,Lo strano caso del Dottor Jekyll e del signor Hyde,Italian,Rizzoli,Del Buono
-3,Message in a bottle,Nicholas,Sparks,1993,English,Warner Books,2004,Le parole che non ti ho detto,Italian,Sperling & Kupfer,Petrelli
-4,Voyage au Centre de la Terre,Jules,Verne,1864,French,Pierre-Jules Hetzel,2010,Journey to the Centre of the Earth,English,William Collins,Wynne
-5,Frankenstein,Mary,Shelley,1818,English,"Lackington, Hughes, Harding, Mavor & Jones",2013,Frankenstein,Italian,Feltrinelli,Barroni
-6,The Life and Strange Surprising Adventures of Robinson Crusoe,Daniel,Defoe,1719,English,William Taylor,2012,Robinson Crusoe,Italian,Crescere,"Gatti, Rusconi"
+2,Dracula,Bram,Stroker,1897,English,Archibald Constable and Company,2015,Dracula,Italian,Feltrinelli,Lunari
+3,Frankenstein,Mary,Shelley,1818,English,"Lackington, Hughes, Harding, Mavor & Jones",2013,Frankenstein,Italian,Feltrinelli,Barroni
+4,Historia de una gaviota y del gato que le enseñó a volar,Luis,Sepúlveda,1996,Spanish,Tusquets Editores,2017,Storia di una gabbianella e del gatto che le insegnò a volare,Italian,Salani,Carmignani
+5,L'élégance du hérisson,Muriel,Barbery,2006,French,Editions Gallimard,2008,L'eleganza del riccio,Italian,Edizioni E/O,Poli
+6,Message in a bottle,Nicholas,Sparks,1993,English,Warner Books,2004,Le parole che non ti ho detto,Italian,Sperling & Kupfer,Petrelli
 7,The Fortunes and Misfortunes of the Famous Moll Flanders,Daniel,Defoe,1722,English,Hogarth Press,2017,Moll Flanders,Italian,Feltrinelli,Bibbò
-8,Historia de una gaviota y del gato que le enseñó a volar,Luis,Sepúlveda,1996,Spanish,Tusquets Editores,2017,Storia di una gabbianella e del gatto che le insegnò a volare,Italian,Salani,Carmignani
-9,Dracula,Bram,Stroker,1897,English,Archibald Constable and Company,2015,Dracula,Italian,Fltrinelli,Lunari
-10,L'élégance du hérisson,Muriel,Barbery,2006,French,Editions Gallimard,2008,L'eleganza del riccio,Italian,Edizioni E/O,Poli
+8,The Life and Strange Surprising Adventures of Robinson Crusoe,Daniel,Defoe,1719,English,William Taylor,2012,Robinson Crusoe,Italian,Crescere,"Gatti, Rusconi"
+9,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis,Stevenson,1886,English,"Logmans, Green & co.",1998,Lo strano caso del Dottor Jekyll e del signor Hyde,Italian,Rizzoli,Del Buono
+10,Voyage au Centre de la Terre,Jules,Verne,1864,French,Pierre-Jules Hetzel,2010,Journey to the Centre of the Earth,English,William Collins,Wynne
