@@ -2,7 +2,9 @@
 
 **Welcome!**
 
-This is my first repository! I made it during the first part of the course of Digital Literary Studies, held by the brilliant Professor Emmanuela Carbé, at the Ca' Foscari University in Venice. The objective of this first repository is to get familiar with the platform GitHub, but also to understand some fundamental tools of the Digital Literary Studies field.
+This is my first repository! 
+
+I made it during the first part of the course of **Digital Literary Studies**, held by the brilliant Professor Emmanuela Carbé, at the Ca' Foscari University in Venice. The objective of this first repository is to get familiar with the platform GitHub, but also to understand some fundamental tools of the Digital Literary Studies field.
 
 In this repository, you'll find three different works and a brief description of the tools used in order to make them:
 
@@ -33,12 +35,22 @@ For the creation of this file, I started exploring the [Internet Archive](https:
 ![The Black Arrow](https://upload.wikimedia.org/wikipedia/commons/1/16/1st_Edition_of_The_Black_Arrow.jpg)
 *The first edition cover of "the Black Arrow" of 1888, found on [Wikimedia Commons](https://it.wikipedia.org/wiki/File:1st_Edition_of_The_Black_Arrow.jpg)*
 
-This time, I needed to work with an OCR tool. I used Gogle Documents as a form of Octical Character Recognition: when inserting an image in a .png format (as I did), the software automatically recognises any word present in the image. Of course, it's not a smooth process: especially when working with old manuscripts, several edits are required in order to obtain a clean, machine-readable text.
+This time, I needed to work with an OCR tool. I used Gogle Documents as a form of Octical Character Recognition: when inserting an image in a .png format (as I did), the software automatically recognises any word present in the image and traslates it in a format readable by the computer. Of course, it's not a smooth process: especially when working with old manuscripts, several edits are required in order to obtain a clean, machine-readable text.
 
 I created a different file for every screenshot I took of the novel's first chapter (*"BOOK 1: THE TWO LADS; CHAPTER 1: AT THE SIGN OF THE SUN IN KETTLEY"*), cleared the formatting and then edited the text. Then I put the different files togheter and went once again on Dillinger.io.
 
 This time, I put in **bold** text the name of the knight **Sir Daniel Brackley**, while on both **bold** and *italics* the name of ***Condall***, a man brought upon Sir Daniel for treason. The other names present in the chapter, like *Jhon*, *Joanna* and *Sir Oliver*, were all highlighted with *italics*.
 
-Then, bringing the work here on GitHub as a .md file oneìce again, I edited it some more, adding the links to the [England](https://en.wikipedia.org/wiki/England) Wikipedia page, and to the [Kettleburgh](https://en.wikipedia.org/wiki/Kettleburgh) one, which is one of the possible cities from which Stevenson took inspiration from for the city of Kettley, where the narration takes place.
+Then, bringing the work here on GitHub as a .md file once again, I edited it some more, adding the links to the [England](https://en.wikipedia.org/wiki/England) Wikipedia page, and to the [Kettleburgh](https://en.wikipedia.org/wiki/Kettleburgh) one, which is one of the possible cities from which Stevenson took inspiration from for the city of Kettley, where the narration takes place.
 
 ## Busdon_readings - Foglio1.csv
+
+In the last exercise of this repository, I worked on the creation of a table, in which I put some of my favorite readings. This time I used Google Sheets, another tool of Google Workspace, in order to create a small dataset. 
+
+I put in the dataset ten novels (column **Item_number**), inserting their original title (**Original_Title**), name and surname of the author (**Author_Name**,**Author_Surname**), publishing year of the first edition (**First_edition**), language of the first edition(**Fe_Language**), publishing house or publisher (depending on the publishing year, **Fe_Publishing_House**). Then, in the same row, I inserted the metadeta of every edition read by me: publishing year (column **Edition_read**), translated title (**Er_Title**), language (**Er_Language**), publishing house (**Er_Publishing_House**) and translator's surname (or curator's,**Translator**).
+
+Once done, I exported the table as a .csv file. In this way, I had a small dataset ready to be uploaded on GitHub. 
+#
+*Feel free to check the files in my repository!*
+
+***I wish you a pleasant journey on the GitHub platform***
