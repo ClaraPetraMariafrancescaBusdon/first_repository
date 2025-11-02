@@ -1,4 +1,4 @@
-Item number,Title,Author_Name,Author_Surname,First_edition,Fe_Language,Fe_Publishing_House,Edition_read,Er_Title,Er_Language,Er_Publishing_House,Translator
+Item number,Original_Title,Author_Name,Author_Surname,First_edition,Fe_Language,Fe_Publishing_House,Edition_read,Er_Title,Er_Language,Er_Publishing_House,Translator
 1,Blackwater I: The Flood,Michael,McDowell,1983,English,Avon Books,2023,Blackwater I: La Piena,Italian,BEAT,Cantoni
 2,Dracula,Bram,Stroker,1897,English,Archibald Constable and Company,2015,Dracula,Italian,Feltrinelli,Lunari
 3,Frankenstein,Mary,Shelley,1818,English,"Lackington, Hughes, Harding, Mavor & Jones",2013,Frankenstein,Italian,Feltrinelli,Barroni
